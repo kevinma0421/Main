@@ -1,6 +1,4 @@
-- Hi, I’m @123kevinma123
-- I’m interested in applying for an intership
-- I’m currently studying Computer Science at Purdue University
+Purdue CS major looking for internship
 
 
 <!---
