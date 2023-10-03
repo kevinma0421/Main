@@ -1,4 +1,4 @@
-Purdue CS major looking for internship
+Hey, I'm a junior currently studying Computer Science at Purdue University.
 
 
 <!---
