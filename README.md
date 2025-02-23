@@ -1,6 +1,6 @@
 Hey, I'm a Senior currently studying Computer Science at Purdue University.
 
-I am the current avionics lead for Purdue Space Program Spaceport team.
+I am the current avionics & recovery lead for Purdue Space Program Spaceport team.
 
 
 <!---
